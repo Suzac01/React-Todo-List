@@ -1,0 +1,9 @@
+Project: Task Management Dashboard
+
+
+User Authentication
+Task Management
+Task Filtering and Searching
+Real-Time Updates
+Theme Toggling
+Task Details Modal
